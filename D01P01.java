@@ -35,7 +35,7 @@ public class D01P01 {
 
     public static void main(String[] args) {
         // Input
-        String title = "Advanced Java";
+        String title = "Java Programing";
         double price = 350.00;
 
         // Creating a book object
